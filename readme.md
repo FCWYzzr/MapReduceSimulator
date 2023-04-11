@@ -34,7 +34,7 @@
 
 ## 类概述
 ### Connection
-&emsp;&emsp;虚假的网络连接模拟类，通过队列和阻塞队列模拟网络通讯
+&emsp;&emsp;网络连接模拟类，通过队列和阻塞队列模拟网络通讯
 ### IntermediateMap
 &emsp;&emsp;reduce操作传输的可序列化对象
 ### MappingChannel
